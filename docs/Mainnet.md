@@ -24,6 +24,22 @@ Arbitrum One — the first permissionless Ethereum layer 2 with full Ethereum sm
 
 A good place to start is to connect your favorite Ethereum wallet to the Arbitrum one chain.
 
+If you're using [Coinbase Wallet](https://www.coinbase.com/wallet/developers), Arbitrum mainnet is a whitelisted network, which enables automatic detection of all assets held in the user's wallet - no manually RPC network needed. On Coinbase Wallet you can switch to Arbitrum mainnet with below steps:
+
+Desktop:
+- Open the settings from the top right
+- Enable the 'Developer Mode' checkbox
+- In settings under 'Default Network' you will find Arbitrum mainnet
+
+Mobile:
+- Open Settings in the bottom right
+- Open Default Network
+- Switch Network to Arbitrum mainnet
+ 
+ 
+
+For custom RPC network:
+
 **Chain Info:**
 
 Name: **Arbitrum One**
