@@ -10,6 +10,20 @@ For a general introduction to the Arbitrum Testnet, see our [announcement](https
 
 ## Connecting to the chain
 
+If you're using [Coinbase Wallet](https://www.coinbase.com/wallet/developers), Arbitrum testnet is a whitelisted network, which enables automatic detection of all assets held in the user's wallet - no manually RPC network needed. On Coinbase Wallet you can switch to Arbitrum testnet with below steps:
+
+Desktop:
+- Open the settings from the top right
+- Enable the 'Developer Mode' checkbox
+- In settings under 'Default Network' you will find Arbitrum Rinkeby testnet
+
+Mobile:
+- Open Settings in the bottom right
+- Open Default Network
+- Switch Network to Arbitrum Rinkeby testnet
+
+
+
 If you're using Metamask, add a custom RPC network to connect to the Arbitrum testnet:
 
 - Network Name: Arbitrum Testnet
